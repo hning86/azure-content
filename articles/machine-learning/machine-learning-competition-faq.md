@@ -18,6 +18,29 @@
 
 # Microsoft Cortana Analytics Suite Competitions FAQ
 
+**What is Cortana Analytics Competition?**
+
+Cortana Analytics Competition is a fun way to apply your machine learning skills, using [Azure Machine Learning Studio](https://studio.azureml.net) to tackle interesting data science problems and win great prize money and bragging rights.
+
+**How do I gain access to an Azurem Machine Leaarning workspace?**
+
+**How do I enter a Competition?**
+After you obtain access to an Azure ML workspace, there are generally 4 steps to enter a competition.
+ 1. Copy the Starter Experiment from Competiion detai page to Azure ML Studio workspace you own. 
+ 2. Oopen the Starter Experiment and start to iterate. Don't forget o check out the 
+ 3. Create a Predicative Experiment 
+ 2. 
+2. 2/ baba 
+
+
+Will it cost me money to enter?
+What are public scores?
+What are private scores? 
+What happens if I win? 
+How do I claim monetary prizes if I win?
+How do I learn more about Azure Machine Learning Studio?
+
+
 **Where can I ask general questions about data science?**
 
 Please use our [Microsoft Azure Machine Learning
